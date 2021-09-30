@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>
+ jvidals1
+</title>
+<body style="background-color:gray;">
+</head>
+<body> <h1><u><b>TRABAJO SEGUNDA SEMANA </b></u></h1>
+<h2>Javier Vidal Sobrini</h2>
+ <ol>
+<li> buenos dias
+<ul>
+ <li> <i>Aqui le muestro la segunda entrega del trabajo de esta semana ya que la anterior entrega era demasiado pobre</i>
+</ul>
+</ol> 
+</body>
